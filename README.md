@@ -1,3 +1,5 @@
 # Arrow Functions
 
-```node arrow-functions.js```
+```
+node arrow-functions.js
+```
